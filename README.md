@@ -1,1 +1,1 @@
-# AI-powered-Legal-Documentation-Assistant
+# Application Test Automation 
